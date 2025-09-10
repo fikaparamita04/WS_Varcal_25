@@ -3,8 +3,9 @@ This is a NGS analysis module for "Deep Dive into Bioinformatics Analysis Worksh
 You can follow this step-by-step modules:
 1. unix
 2. data_format
-3. alignment
-4. varcal
+3. preprocessing
+4. alignment
+5. varcal
 
 Happy learning!
  
